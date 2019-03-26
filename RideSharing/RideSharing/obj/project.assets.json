@@ -12093,11 +12093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Greg/Google Drive/2019 Visual Basic /RideSharing/RideSharing/RideSharing.csproj",
+      "projectUniqueName": "/Users/Greg/Google Drive/2019 Visual Basic /MvcMovie2/MvcMovie2/RideSharing/RideSharing/RideSharing.csproj",
       "projectName": "RideSharing",
-      "projectPath": "/Users/Greg/Google Drive/2019 Visual Basic /RideSharing/RideSharing/RideSharing.csproj",
+      "projectPath": "/Users/Greg/Google Drive/2019 Visual Basic /MvcMovie2/MvcMovie2/RideSharing/RideSharing/RideSharing.csproj",
       "packagesPath": "/Users/Greg/.nuget/packages/",
-      "outputPath": "/Users/Greg/Google Drive/2019 Visual Basic /RideSharing/RideSharing/obj/",
+      "outputPath": "/Users/Greg/Google Drive/2019 Visual Basic /MvcMovie2/MvcMovie2/RideSharing/RideSharing/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
