@@ -3,16 +3,16 @@ using System.ComponentModel.DataAnnotations;
 
 namespace RideSharing.Models
 {
-    public class Ride
+    public class Trip
     {
-        public Ride()
+        public Trip()
         {
             TimeStamp = DateTime.Now;
             IsCompleted = false;
         }
     
         [Key]
-        public int RideId { get; set; }
+        public int TripId { get; set; }
         public DateTime TimeStamp { get; set; }
 
         [Display(Name ="Total")]
