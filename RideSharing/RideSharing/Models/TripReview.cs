@@ -7,10 +7,10 @@ namespace RideSharing.Models
     {
 
         [Key]
-        public int TriReviewpId { get; set; }
+        public int TriReviewId { get; set; }
         public DateTime TimeStamp { get; set; }
-
-
+        public string PassengerReview { get; set; }
+        public string DriverReview { get; set; }
 
 
 

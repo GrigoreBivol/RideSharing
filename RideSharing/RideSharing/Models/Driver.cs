@@ -18,7 +18,7 @@ namespace RideSharing.Models
         public string Name { get; set; }
         public bool Online { get; set; }
         public bool OnRide { get; set; }
-        public virtual ICollection<Ride> Rides { get; set; }
+        public virtual ICollection<Trip> Trips { get; set; }
 
     }
 
